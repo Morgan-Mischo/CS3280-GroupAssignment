@@ -1,0 +1,19 @@
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\bin\Debug\Group Project.exe.config
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\bin\Debug\Group Project.exe
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\bin\Debug\Group Project.pdb
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project.csproj.AssemblyReference.cache
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Items\wndItems.g.cs
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Main\MainWindow.g.cs
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Search\wndSearch.g.cs
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\App.g.cs
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project_MarkupCompile.cache
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project_MarkupCompile.lref
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Items\wndItems.baml
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Main\MainWindow.baml
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Search\wndSearch.baml
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project.g.resources
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group_Project.Properties.Resources.resources
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project.csproj.GenerateResource.cache
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project.csproj.CoreCompileInputs.cache
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project.exe
+C:\Users\morgan_hill\Desktop\folders\f\Group Project\Group Project\Group Project\obj\Debug\Group Project.pdb
